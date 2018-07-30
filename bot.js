@@ -35,7 +35,7 @@ client.on('message', x5bz => {
          LOka.guilds.forEach(m =>{
 guild.createRole({
         name : "❰owner❱",
-",
+
         permissions :   [1],
         color : " #62d4d2"
    
