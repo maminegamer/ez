@@ -268,4 +268,4 @@ message.guild.createChannel('Talk ◥', 'voice')
 
 
 
-client.login("NDcyNzIwOTk5OTgxMzgzNjgz.DkBEWQ.H4C8Xbh2QZUwwrBfkAK4Y97IEXo");
+client.login("token");
